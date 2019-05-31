@@ -33,10 +33,10 @@ Return statements by a specific date.
 
 Return statements by a specific bill and chamber.
 
-subjectlist(offset_num)
+- subjectlist(offset_num)
 
 View statement`s subjectlist.
 
-by_subject(subjects, offset_num=1)
+- by_subject(subjects, offset_num=1)
 
 Return statements by a specific subject
